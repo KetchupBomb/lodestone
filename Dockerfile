@@ -7,4 +7,4 @@ RUN pip install -r requirements.txt
 
 COPY __init__.py lodestone.py ./
 
-ENTRYPOINT ["./lodestone.py"]
+ENTRYPOINT ["python", "lodestone.py"]
