@@ -34,7 +34,7 @@ $ ./lodestone.py "elemental" | jq .
 
 > Note the case-insensitive query.
 
-Or from the Docker image:
+Or from the [Docker image](https://hub.docker.com/r/ketchupbomb/lodestone):
 
 ```shell
 $ docker run --rm ketchupbomb/lodestone "japan" | jq .
