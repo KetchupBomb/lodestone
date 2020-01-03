@@ -1,7 +1,5 @@
 # FFXVI API for [Lodestone](https://na.finalfantasyxiv.com/lodestone/worldstatus/)
 
----
-
 A simple Python library for getting server status for FFXIV across its regions, datacenters, and worlds.
 
 ## tl;dr
